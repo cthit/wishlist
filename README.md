@@ -12,4 +12,4 @@ All serious suggestions are welcome, big and small, easy and hard. But to increa
 * A reason: "This service would be great because ..."
 * Features: any fun extra features you can think of.
 
-There is an example issue if you want a suggestion for how to structure your suggestion.
+There is an [example issue](https://github.com/cthit/wishlist/issues/1) that you can look at for inspiration on how to structure your suggestion.
